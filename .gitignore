@@ -1,0 +1,18 @@
+# compiled output
+*.class
+target/
+
+# recorded game files
+game_record.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS files
+.DS_Store
