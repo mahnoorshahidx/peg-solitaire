@@ -38,17 +38,17 @@ src/test/java/com/pegsolitaire/
 ### English board (9x9)
 A manual game in progress on the classic English cross-shaped board, showing pegs (●) and empty spaces after several jumps.
 
-![English board gameplay]<img width="709" height="705" alt="board" src="https://github.com/user-attachments/assets/1b8b0f79-4b5c-492d-a33a-8c19511676e7" />
+<img width="709" height="705" alt="board" src="https://github.com/user-attachments/assets/1b8b0f79-4b5c-492d-a33a-8c19511676e7" />
 
 ### Game controls
 Board size, board type, and game mode (Manual or Automated) are all configurable from dropdowns at the top of the window.
 
-![Board size, type, and mode controls]<img width="704" height="74" alt="controls" src="https://github.com/user-attachments/assets/6b59d291-6192-4ba8-b419-3759991afe8c" />
+<img width="704" height="74" alt="controls" src="https://github.com/user-attachments/assets/6b59d291-6192-4ba8-b419-3759991afe8c" />
 
 ### Diamond board (7x7)
 An alternate board layout — the Diamond shape trims the board into a rotated square instead of the standard cross.
 
-![Diamond board layout]<img width="708" height="708" alt="diamond" src="https://github.com/user-attachments/assets/4c9c3e55-97d4-4cc0-9457-1df503fb9acc" />
+<img width="708" height="708" alt="diamond" src="https://github.com/user-attachments/assets/4c9c3e55-97d4-4cc0-9457-1df503fb9acc" />
 
 ## Running it
 
