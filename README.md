@@ -33,6 +33,22 @@ src/main/java/com/pegsolitaire/
 src/test/java/com/pegsolitaire/
 └── SolitaireGameTest.java
 ```
+## Screenshots
+
+### English board (9x9)
+A manual game in progress on the classic English cross-shaped board, showing pegs (●) and empty spaces after several jumps.
+
+![English board gameplay](images/board.png)
+
+### Game controls
+Board size, board type, and game mode (Manual or Automated) are all configurable from dropdowns at the top of the window.
+
+![Board size, type, and mode controls](images/controls.png)
+
+### Diamond board (7x7)
+An alternate board layout — the Diamond shape trims the board into a rotated square instead of the standard cross.
+
+![Diamond board layout](images/diamond.png)
 
 ## Running it
 
