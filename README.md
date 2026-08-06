@@ -70,3 +70,7 @@ java -jar target/peg-solitaire-1.0.0.jar
 
 - `game_record.txt` is created in whatever directory you run the app from — it's git-ignored, so it won't show up as a change in your repo.
 - Requires Java 17+ and Maven.
+  
+## Author
+
+- Mahnoor Shahid
