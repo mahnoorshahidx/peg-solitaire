@@ -73,4 +73,4 @@ java -jar target/peg-solitaire-1.0.0.jar
   
 ## Author
 
-- Mahnoor Shahid
+Mahnoor Shahid
